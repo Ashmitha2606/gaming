@@ -1,0 +1,22 @@
+[0902/155526.699:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0902/160046.182:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160046.335:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160046.476:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160046.652:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160046.742:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160046.748:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160046.817:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160046.921:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160046.926:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.174:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.270:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.308:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.308:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.341:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.368:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.653:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.720:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.720:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/160047.776:WARNING:dns_config_service.cc(131)] Failed to read DnsHosts.
+[0902/161752.074:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0902/161752.083:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
